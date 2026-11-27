@@ -18,10 +18,10 @@
     "@tauri-apps/plugin-notification": "2.3.3"
   },
   "devDependencies": {
-    "happy-dom": "20.9.0",
+    "happy-dom": "21.0.4",
     "@tauri-apps/cli": "2.11.0",
     "typescript": "6.0.2",
-    "vite": "6.4.3",
+    "vite": "6.4.5",
     "vitest": "4.1.8"
   }
 }
