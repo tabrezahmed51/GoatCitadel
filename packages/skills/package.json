@@ -14,7 +14,7 @@
   "dependencies": {
     "@goatcitadel/contracts": "workspace:*",
     "yaml": "2.8.3",
-    "zod": "4.6.6"
+    "zod": "4.6.7"
   },
   "scripts": {
     "build": "tsc -b tsconfig.json",

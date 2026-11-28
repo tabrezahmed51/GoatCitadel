@@ -69,6 +69,6 @@
     "@vitejs/plugin-react": "4.7.0",
     "happy-dom": "21.0.4",
     "react-test-renderer": "19.2.5",
-    "vite": "6.4.5"
+    "vite": "6.4.6"
   }
 }
